@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f42dcea-01e2-4420-bf2b-8ac4573d75dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LineComparision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/ContinueKeyword/continueKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Instanceinitializerblock/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loggingdemo/LoggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loggingdemo/LoggerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loggingdemo/LoggerFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loggingdemo/LoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loggingdemo/LoggingDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loops/DoLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loops/EnhancedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Loops/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Modifierdemo/AbstractNonAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Modifierdemo/AccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Modifierdemo/FinalNonAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Modifierdemo/StaticNonAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Modifierdemo/SyncAbstractNonAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/AbsNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/CompareToOnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/EqualsOnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/MinMaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/NumberDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/ParselntNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/PowNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/RintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/RoundNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/SqrtNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/ToStringNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Number/ValueOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/AssignmentOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/BitwiseOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/ConditionalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/InstanceOfOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/Operators/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/OtherPrograms/CovariantReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/OtherPrograms/DynamicBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/OtherPrograms/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/OtherPrograms/StaticBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/OtherPrograms/WithoutMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StarPattern/Star1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StarPattern/Star2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StarPattern/Star3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StarPattern/Star4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StaticDemo/NonStaticVariableInStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StaticDemo/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StaticDemo/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/StaticDemo/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/SuperKeyword/SuperRealUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/SuperKeyword/SuperWithConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/SuperKeyword/SuperWithInstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/SuperKeyword/SuperWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/VariableTypes/InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/VariableTypes/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/VariableTypes/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/breakkeyword/BreakKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/ConstructChainingThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/ConstructorChainingSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/CopyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/DefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/InitBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/constructor/ParameterizedConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/continuekey/ContinueKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/datatypes/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/decisionmaking/IfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/decisionmaking/Ifstmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/decisionmaking/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/decisionmaking/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/enumdemo/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/exception/ExceptionHandlingWithTryCatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/exception/ThrowsAndThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/exception/TryWithResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/BlankOrUnintializedFinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/FinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/FinalMethodInnerated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/FinalParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/FinalVariableWithConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/finalKeyword/StaticBlankFinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/firstprog/document/comment/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/inputScanner/InputScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/nestedClasses/AnonymousInnerAsArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/nestedClasses/AnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/nestedClasses/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/nestedClasses/MethodLocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/nestedClasses/NestedClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/nestedClasses/StaticNestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/InvokeCureentClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/InvokeCurrentClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/PassAsAnArgumentInTheMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/PassAsArgumentInTheConstructorCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/ProvingThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/RealUseOfThisConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/ReturnCurreentClassInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/BasicCoreJava/thisKeyword/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/abstractkeyword/AbstractClass_Constructor_DataMember_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/abstractkeyword/AbstractMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/downcasting/Downcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/downcasting/DowncastingWithInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/downcasting/DowncastingWithoutInstanceof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/inheritances/Hierarchical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/inheritances/InheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/inheritances/MultiLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/inheritances/MultipleInheritanceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/inheritances/SingleLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/objectandclass/AnonymousObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/objectandclass/InitializationThroughConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/objectandclass/InitializationThroughMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/objectandclass/InitializationThroughReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/objectandclass/ObjectAndClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/objectandclass/RealWorldEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/Overloading/OverloadMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/Overloading/OverloadingChangingDataTypeOfArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/Overloading/OverloadingChangingNoOfArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/Overloading/OverloadingNotPossibleByChangingReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/Overloading/TypePromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/Overloading/TypePromotionAmbiguity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Bridgelabz/Oops/polymorphism/overriding/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/InheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/InheritanceDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/LineComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/StringLearing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/LineComparision/TwoDimensionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StartPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/Compile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/Runtime.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mof2vpPjn2hDIJKOBLoHNxkCwp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StartPosition">
+    <configuration name="DoLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bridgelabz.BasicCoreJava.Loops.DoLoop" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bridgelabz.BasicCoreJava.Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ifstmt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bridgelabz.BasicCoreJava.decisionmaking.Ifstmt" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bridgelabz.BasicCoreJava.decisionmaking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggingDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bridgelabz.BasicCoreJava.Loggingdemo.LoggingDemo1" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bridgelabz.BasicCoreJava.Loggingdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bridgelabz.Oops.polymorphism.Overloading.OverloadMainMethod" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bridgelabz.Oops.polymorphism.Overloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartPosition" />
+      <module name="LineComparision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartPosition" />
+        <item itemvalue="Application.OverloadMainMethod" />
+        <item itemvalue="Application.Ifstmt" />
+        <item itemvalue="Application.LoggingDemo1" />
+        <item itemvalue="Application.DoLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f42dcea-01e2-4420-bf2b-8ac4573d75dc" name="Changes" comment="" />
+      <created>1678438657256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678438657256</updated>
+    </task>
+    <servers />
+  </component>
+</project>
